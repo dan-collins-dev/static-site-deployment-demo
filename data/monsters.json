@@ -1,0 +1,4588 @@
+[
+    {
+        "id": "001",
+        "name": "Goblin",
+        "HP": "8",
+        "attack": "4",
+        "defense": "4",
+        "accuracy": "2",
+        "agility": "3",
+        "intellect": "1",
+        "evasion": "6",
+        "magicDefense": "16",
+        "gil": "6",
+        "exp": "6",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "002",
+        "name": "Goblin Guard",
+        "HP": "16",
+        "attack": "8",
+        "defense": "8",
+        "accuracy": "4",
+        "agility": "5",
+        "intellect": "3",
+        "evasion": "9",
+        "magicDefense": "23",
+        "gil": "18",
+        "exp": "18",
+        "items": [
+            "Potion"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "003",
+        "name": "Wolf",
+        "HP": "20",
+        "attack": "8",
+        "defense": "0",
+        "accuracy": "5",
+        "agility": "18",
+        "intellect": "1",
+        "evasion": "36",
+        "magicDefense": "28",
+        "gil": "6",
+        "exp": "24",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "004",
+        "name": "Crazy Horse",
+        "HP": "64",
+        "attack": "10",
+        "defense": "2",
+        "accuracy": "16",
+        "agility": "11",
+        "intellect": "4",
+        "evasion": "22",
+        "magicDefense": "40",
+        "gil": "15",
+        "exp": "63",
+        "items": [
+            "Potion"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "005",
+        "name": "Skeleton",
+        "HP": "10",
+        "attack": "10",
+        "defense": "0",
+        "accuracy": "2",
+        "agility": "6",
+        "intellect": "0",
+        "evasion": "12",
+        "magicDefense": "17",
+        "gil": "3",
+        "exp": "9",
+        "items": [
+            "Echo Grass"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine",
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "006",
+        "name": "Black Widow",
+        "HP": "28",
+        "attack": "10",
+        "defense": "0",
+        "accuracy": "7",
+        "agility": "15",
+        "intellect": "10",
+        "evasion": "30",
+        "magicDefense": "28",
+        "gil": "8",
+        "exp": "30",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine",
+            "Cavern of Earth",
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "007",
+        "name": "Gigas Worm",
+        "HP": "56",
+        "attack": "17",
+        "defense": "8",
+        "accuracy": "14",
+        "agility": "12",
+        "intellect": "9",
+        "evasion": "24",
+        "magicDefense": "40",
+        "gil": "15",
+        "exp": "63",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "008",
+        "name": "Warg Wolf",
+        "HP": "72",
+        "attack": "14",
+        "defense": "0",
+        "accuracy": "18",
+        "agility": "27",
+        "intellect": "3",
+        "evasion": "54",
+        "magicDefense": "46",
+        "gil": "22",
+        "exp": "93",
+        "items": [
+            "Antidote"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine",
+            "Cavern of Earth",
+            "Marsh Cave",
+            "Giant's Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "009",
+        "name": "Werewolf",
+        "HP": "68",
+        "attack": "14",
+        "defense": "6",
+        "accuracy": "17",
+        "agility": "21",
+        "intellect": "8",
+        "evasion": "42",
+        "magicDefense": "45",
+        "gil": "67",
+        "exp": "135",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Regenerative",
+            "Beast",
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine",
+            "Cavern of Earth",
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+    
+    {
+        "id": "010",
+        "name": "Zombie",
+        "HP": "20",
+        "attack": "10",
+        "defense": "0",
+        "accuracy": "5",
+        "agility": "3",
+        "intellect": "0",
+        "evasion": "6",
+        "magicDefense": "25",
+        "gil": "12",
+        "exp": "24",
+        "items": [
+            "Staff"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "011",
+        "name": "Ghoul",
+        "HP": "48",
+        "attack": "8",
+        "defense": "6",
+        "accuracy": "12",
+        "agility": "6",
+        "intellect": "1",
+        "evasion": "12",
+        "magicDefense": "36",
+        "gil": "50",
+        "exp": "93",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine",
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "012",
+        "name": "Garland",
+        "HP": "212",
+        "attack": "15",
+        "defense": "8",
+        "accuracy": "27",
+        "agility": "6",
+        "intellect": "12",
+        "evasion": "12",
+        "magicDefense": "64",
+        "gil": "250",
+        "exp": "130",
+        "items": [
+            "Long Sword"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "013",
+        "name": "Cobra",
+        "HP": "56",
+        "attack": "6",
+        "defense": "6",
+        "accuracy": "14",
+        "agility": "15",
+        "intellect": "6",
+        "evasion": "30",
+        "magicDefense": "46",
+        "gil": "50",
+        "exp": "123",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "014",
+        "name": "Ogre",
+        "HP": "100",
+        "attack": "18",
+        "defense": "10",
+        "accuracy": "25",
+        "agility": "9",
+        "intellect": "4",
+        "evasion": "18",
+        "magicDefense": "65",
+        "gil": "195",
+        "exp": "195",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Giant"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Giant's Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "015",
+        "name": "Ogre Chief",
+        "HP": "132",
+        "attack": "23",
+        "defense": "14",
+        "accuracy": "33",
+        "agility": "15",
+        "intellect": "6",
+        "evasion": "30",
+        "magicDefense": "71",
+        "gil": "300",
+        "exp": "282",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Giant"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Giant's Cave",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+    {
+        "id": "016",
+        "name": "Lizard",
+        "HP": "92",
+        "attack": "18",
+        "defense": "12",
+        "accuracy": "23",
+        "agility": "12",
+        "intellect": "3",
+        "evasion": "24",
+        "magicDefense": "55",
+        "gil": "50",
+        "exp": "153",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "017",
+        "name": "Pirate",
+        "HP": "24",
+        "attack": "10",
+        "defense": "0",
+        "accuracy": "2",
+        "agility": "6",
+        "intellect": "3",
+        "evasion": "12",
+        "magicDefense": "35",
+        "gil": "3",
+        "exp": "9",
+        "items": [
+            "Leather Shield"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Pravoka"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "018",
+        "name": "Sahagin",
+        "HP": "28",
+        "attack": "10",
+        "defense": "4",
+        "accuracy": "7",
+        "agility": "36",
+        "intellect": "4",
+        "evasion": "72",
+        "magicDefense": "28",
+        "gil": "30",
+        "exp": "30",
+        "items": [
+            "Potion"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "019",
+        "name": "Sahagin Chief",
+        "HP": "64",
+        "attack": "15",
+        "defense": "8",
+        "accuracy": "16",
+        "agility": "39",
+        "intellect": "7",
+        "evasion": "78",
+        "magicDefense": "46",
+        "gil": "105",
+        "exp": "105",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "020",
+        "name": "Buccaneer",
+        "HP": "50",
+        "attack": "14",
+        "defense": "6",
+        "accuracy": "13",
+        "agility": "12",
+        "intellect": "6",
+        "evasion": "24",
+        "magicDefense": "37",
+        "gil": "120",
+        "exp": "60",
+        "items": [
+            "Saber"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "021",
+        "name": "Shark",
+        "HP": "120",
+        "attack": "22",
+        "defense": "0",
+        "accuracy": "30",
+        "agility": "36",
+        "intellect": "8",
+        "evasion": "72",
+        "magicDefense": "70",
+        "gil": "66",
+        "exp": "267",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "022",
+        "name": "Bigeyes",
+        "HP": "10",
+        "attack": "4",
+        "defense": "0",
+        "accuracy": "2",
+        "agility": "42",
+        "intellect": "6",
+        "evasion": "84",
+        "magicDefense": "14",
+        "gil": "10",
+        "exp": "42",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "023",
+        "name": "Tarantula",
+        "HP": "64",
+        "attack": "5",
+        "defense": "12",
+        "accuracy": "16",
+        "agility": "12",
+        "intellect": "3",
+        "evasion": "24",
+        "magicDefense": "46",
+        "gil": "50",
+        "exp": "141",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Marsh Cave",
+            "Giant's Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "024",
+        "name": "Ghast",
+        "HP": "56",
+        "attack": "8",
+        "defense": "10",
+        "accuracy": "14",
+        "agility": "23",
+        "intellect": "2",
+        "evasion": "46",
+        "magicDefense": "40",
+        "gil": "117",
+        "exp": "117",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Cavern of Ice"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "025",
+        "name": "Scorpion",
+        "HP": "84",
+        "attack": "22",
+        "defense": "10",
+        "accuracy": "21",
+        "agility": "27",
+        "intellect": "6",
+        "evasion": "54",
+        "magicDefense": "55",
+        "gil": "70",
+        "exp": "225",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Marsh Cave",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "026",
+        "name": "Shadow",
+        "HP": "50",
+        "attack": "10",
+        "defense": "0",
+        "accuracy": "13",
+        "agility": "18",
+        "intellect": "12",
+        "evasion": "36",
+        "magicDefense": "37",
+        "gil": "45",
+        "exp": "90",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "027",
+        "name": "Green Slime",
+        "HP": "24",
+        "attack": "1",
+        "defense": "255",
+        "accuracy": "1",
+        "agility": "0",
+        "intellect": "3",
+        "evasion": "0",
+        "magicDefense": "36",
+        "gil": "20",
+        "exp": "84",
+        "items": [
+            "Hi-Potion"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Fire",
+            "Ice"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Lightning",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "028",
+        "name": "Crawler",
+        "HP": "84",
+        "attack": "1",
+        "defense": "8",
+        "accuracy": "21",
+        "agility": "21",
+        "intellect": "5",
+        "evasion": "42",
+        "magicDefense": "51",
+        "gil": "200",
+        "exp": "186",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "029",
+        "name": "Gray Ooze",
+        "HP": "76",
+        "attack": "30",
+        "defense": "7",
+        "accuracy": "19",
+        "agility": "2",
+        "intellect": "0",
+        "evasion": "4",
+        "magicDefense": "55",
+        "gil": "70",
+        "exp": "255",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Marsh Cave",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "030",
+        "name": "Gargoyle",
+        "HP": "80",
+        "attack": "12",
+        "defense": "8",
+        "accuracy": "20",
+        "agility": "23",
+        "intellect": "11",
+        "evasion": "45",
+        "magicDefense": "53",
+        "gil": "80",
+        "exp": "132",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "Marsh Cave",
+            "Cavern of Earth"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "031",
+        "name": "Bloodbones",
+        "HP": "144",
+        "attack": "26",
+        "defense": "12",
+        "accuracy": "36",
+        "agility": "21",
+        "intellect": "6",
+        "evasion": "42",
+        "magicDefense": "76",
+        "gil": "378",
+        "exp": "378",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Marsh Cave",
+            "Cavern of Ice"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "032",
+        "name": "Piscodemon",
+        "HP": "84",
+        "attack": "30",
+        "defense": "16",
+        "accuracy": "21",
+        "agility": "33",
+        "intellect": "18",
+        "evasion": "66",
+        "magicDefense": "98",
+        "gil": "300",
+        "exp": "276",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic",
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Ice",
+            "Spirit"
+        ],
+        "spawnArea": [
+            "Marsh Cave",
+            "Cavern of Ice",
+            "Cavern of Earth"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "033",
+        "name": "Astos",
+        "HP": "420",
+        "attack": "30",
+        "defense": "18",
+        "accuracy": "42",
+        "agility": "39",
+        "intellect": "24",
+        "evasion": "78",
+        "magicDefense": "170",
+        "gil": "3",
+        "exp": "9",
+        "items": [
+            "Mithril Sword"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Western Keep"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "034",
+        "name": "Mummy",
+        "HP": "80",
+        "attack": "30",
+        "defense": "20",
+        "accuracy": "20",
+        "agility": "12",
+        "intellect": "16",
+        "evasion": "24",
+        "magicDefense": "60",
+        "gil": "300",
+        "exp": "300",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Cavern of Earth",
+            "Cavern of Ice",
+            "Citadel of Trials",
+            "Waterfall Cavern",
+            "Mirage Tower",
+            "Western Keep"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "035",
+        "name": "Wraith",
+        "HP": "86",
+        "attack": "22",
+        "defense": "4",
+        "accuracy": "22",
+        "agility": "45",
+        "intellect": "18",
+        "evasion": "90",
+        "magicDefense": "52",
+        "gil": "231",
+        "exp": "231",
+        "items": [
+            "Crosier"
+        ],
+        "type": [
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Cavern of Earth",
+            "Cavern of Ice",
+            "Western Keep"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "036",
+        "name": "Anaconda",
+        "HP": "80",
+        "attack": "22",
+        "defense": "10",
+        "accuracy": "20",
+        "agility": "18",
+        "intellect": "11",
+        "evasion": "36",
+        "magicDefense": "56",
+        "gil": "50",
+        "exp": "165",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Marsh Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "037",
+        "name": "Hyneadon",
+        "HP": "120",
+        "attack": "22",
+        "defense": "4",
+        "accuracy": "30",
+        "agility": "24",
+        "intellect": "8",
+        "evasion": "48",
+        "magicDefense": "76",
+        "gil": "72",
+        "exp": "288",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "038",
+        "name": "Lesser Tiger",
+        "HP": "132",
+        "attack": "22",
+        "defense": "8",
+        "accuracy": "33",
+        "agility": "24",
+        "intellect": "13",
+        "evasion": "48",
+        "magicDefense": "85",
+        "gil": "108",
+        "exp": "438",
+        "items": [
+            "X-Potion"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Giant's Cave"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "039",
+        "name": "Minotaur",
+        "HP": "164",
+        "attack": "22",
+        "defense": "4",
+        "accuracy": "41",
+        "agility": "24",
+        "intellect": "8",
+        "evasion": "48",
+        "magicDefense": "95",
+        "gil": "489",
+        "exp": "489",
+        "items": [
+            "Knife"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "040",
+        "name": "Hill Gigas",
+        "HP": "240",
+        "attack": "38",
+        "defense": "12",
+        "accuracy": "60",
+        "agility": "24",
+        "intellect": "5",
+        "evasion": "48",
+        "magicDefense": "120",
+        "gil": "879",
+        "exp": "879",
+        "items": [
+            "Tent"
+        ],
+        "type": [
+            "Giant"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "041",
+        "name": "Earth Elemental",
+        "HP": "288",
+        "attack": "66",
+        "defense": "20",
+        "accuracy": "72",
+        "agility": "9",
+        "intellect": "18",
+        "evasion": "18",
+        "magicDefense": "130",
+        "gil": "768",
+        "exp": "1536",
+        "items": [
+            "Remedy"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Lightning",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Cavern of Earth",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "042",
+        "name": "Troll",
+        "HP": "184",
+        "attack": "24",
+        "defense": "12",
+        "accuracy": "46",
+        "agility": "24",
+        "intellect": "6",
+        "evasion": "48",
+        "magicDefense": "100",
+        "gil": "621",
+        "exp": "621",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Regenerative"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Earth"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "043",
+        "name": "Wight",
+        "HP": "52",
+        "attack": "20",
+        "defense": "12",
+        "accuracy": "13",
+        "agility": "21",
+        "intellect": "3",
+        "evasion": "42",
+        "magicDefense": "45",
+        "gil": "150",
+        "exp": "150",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Cavern of Earth",
+            "Cavern of Ice"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "044",
+        "name": "Ochre Jelly",
+        "HP": "76",
+        "attack": "32",
+        "defense": "6",
+        "accuracy": "19",
+        "agility": "3",
+        "intellect": "3",
+        "evasion": "6",
+        "magicDefense": "55",
+        "gil": "70",
+        "exp": "252",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Fire",
+            "Ice"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Lightning",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Cavern of Earth"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "045",
+        "name": "Cockatrice",
+        "HP": "50",
+        "attack": "1",
+        "defense": "4",
+        "accuracy": "10",
+        "agility": "36",
+        "intellect": "8",
+        "evasion": "72",
+        "magicDefense": "47",
+        "gil": "200",
+        "exp": "186",
+        "items": [
+            "Gold Needle"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "Cavern of Earth",
+            "Cavern of Ice",
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "046",
+        "name": "Vampire",
+        "HP": "280",
+        "attack": "76",
+        "defense": "26",
+        "accuracy": "39",
+        "agility": "36",
+        "intellect": "26",
+        "evasion": "72",
+        "magicDefense": "75",
+        "gil": "2000",
+        "exp": "1200",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Regenerative",
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Mirage Tower",
+            "Chaos Shrine",
+            "Cavern of Earth"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "047",
+        "name": "Ogre Mage",
+        "HP": "144",
+        "attack": "23",
+        "defense": "10",
+        "accuracy": "36",
+        "agility": "27",
+        "intellect": "12",
+        "evasion": "54",
+        "magicDefense": "80",
+        "gil": "723",
+        "exp": "723",
+        "items": [
+            "Eye Drops"
+        ],
+        "type": [
+            "Regenerative",
+            "Mage",
+            "Giant"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "048",
+        "name": "Sphinx",
+        "HP": "228",
+        "attack": "23",
+        "defense": "12",
+        "accuracy": "57",
+        "agility": "60",
+        "intellect": "32",
+        "evasion": "120",
+        "magicDefense": "115",
+        "gil": "1160",
+        "exp": "1160",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "049",
+        "name": "Lich",
+        "HP": "1200",
+        "attack": "40",
+        "defense": "40",
+        "accuracy": "49",
+        "agility": "12",
+        "intellect": "30",
+        "evasion": "24",
+        "magicDefense": "120",
+        "gil": "3000",
+        "exp": "2200",
+        "items": [
+            "Dry Ether"
+        ],
+        "type": [
+            "Mage",
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Poison",
+            "Time",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Cavern of Earth"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "050",
+        "name": "Ankheg",
+        "HP": "222",
+        "attack": "39",
+        "defense": "20",
+        "accuracy": "56",
+        "agility": "24",
+        "intellect": "10",
+        "evasion": "48",
+        "magicDefense": "116",
+        "gil": "300",
+        "exp": "1194",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "051",
+        "name": "Piranha",
+        "HP": "92",
+        "attack": "22",
+        "defense": "0",
+        "accuracy": "23",
+        "agility": "36",
+        "intellect": "10",
+        "evasion": "72",
+        "magicDefense": "68",
+        "gil": "20",
+        "exp": "240",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "052",
+        "name": "Red Piranha",
+        "HP": "172",
+        "attack": "37",
+        "defense": "20",
+        "accuracy": "43",
+        "agility": "36",
+        "intellect": "13",
+        "evasion": "72",
+        "magicDefense": "83",
+        "gil": "46",
+        "exp": "546",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "053",
+        "name": "Crocodile",
+        "HP": "184",
+        "attack": "42",
+        "defense": "16",
+        "accuracy": "46",
+        "agility": "24",
+        "intellect": "9",
+        "evasion": "48",
+        "magicDefense": "103",
+        "gil": "900",
+        "exp": "816",
+        "items": [
+            "Cottage"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "054",
+        "name": "White Croc",
+        "HP": "288",
+        "attack": "56",
+        "defense": "20",
+        "accuracy": "72",
+        "agility": "24",
+        "intellect": "16",
+        "evasion": "48",
+        "magicDefense": "143",
+        "gil": "2000",
+        "exp": "1890",
+        "items": [
+            "Hi-Potion"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "055",
+        "name": "Ochu",
+        "HP": "208",
+        "attack": "20",
+        "defense": "24",
+        "accuracy": "52",
+        "agility": "12",
+        "intellect": "18",
+        "evasion": "24",
+        "magicDefense": "116",
+        "gil": "102",
+        "exp": "1224",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "056",
+        "name": "Neochu",
+        "HP": "344",
+        "attack": "35",
+        "defense": "32",
+        "accuracy": "86",
+        "agility": "12",
+        "intellect": "20",
+        "evasion": "24",
+        "magicDefense": "170",
+        "gil": "500",
+        "exp": "3189",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "057",
+        "name": "Hydra",
+        "HP": "212",
+        "attack": "30",
+        "defense": "14",
+        "accuracy": "53",
+        "agility": "18",
+        "intellect": "14",
+        "evasion": "36",
+        "magicDefense": "116",
+        "gil": "150",
+        "exp": "915",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "058",
+        "name": "Horned Devil",
+        "HP": "94",
+        "attack": "10",
+        "defense": "32",
+        "accuracy": "24",
+        "agility": "36",
+        "intellect": "17",
+        "evasion": "72",
+        "magicDefense": "127",
+        "gil": "387",
+        "exp": "387",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Fire",
+            "Ice",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Mount Gulg",
+            "Citadel of Trials"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "059",
+        "name": "Pyrolisk",
+        "HP": "44",
+        "attack": "20",
+        "defense": "4",
+        "accuracy": "11",
+        "agility": "36",
+        "intellect": "15",
+        "evasion": "72",
+        "magicDefense": 45,
+        "gil": "500",
+        "exp": "423",
+        "items": [
+            "Gold Needle"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Mount Gulg",
+            "Waterfall Cavern",
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "060",
+        "name": "Fire Elemental",
+        "HP": "276",
+        "attack": "50",
+        "defense": "20",
+        "accuracy": "21",
+        "agility": "21",
+        "intellect": "20",
+        "evasion": "42",
+        "magicDefense": "130",
+        "gil": "800",
+        "exp": "1620",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Mount Gulg",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "061",
+        "name": "Fire Hydra",
+        "HP": "182",
+        "attack": "20",
+        "defense": "14",
+        "accuracy": "46",
+        "agility": "18",
+        "intellect": "16",
+        "evasion": "36",
+        "magicDefense": "130",
+        "gil": "400",
+        "exp": "1215",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire"
+        ],
+        "spawnArea": [
+            "Mount Gulg",
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "062",
+        "name": "Lava Worm",
+        "HP": "280",
+        "attack": "50",
+        "defense": "31",
+        "accuracy": "70",
+        "agility": "2",
+        "intellect": "12",
+        "evasion": "4",
+        "magicDefense": "143",
+        "gil": "400",
+        "exp": "1671",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Mount Gulg",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "063",
+        "name": "Hell Hound",
+        "HP": "192",
+        "attack": "30",
+        "defense": "8",
+        "accuracy": "48",
+        "agility": "24",
+        "intellect": "13",
+        "evasion": "48",
+        "magicDefense": "103",
+        "gil": "600",
+        "exp": "1182",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mount Gulg",
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "064",
+        "name": "Fire Lizard",
+        "HP": "296",
+        "attack": "31",
+        "defense": "18",
+        "accuracy": "74",
+        "agility": "18",
+        "intellect": "8",
+        "evasion": "36",
+        "magicDefense": "143",
+        "gil": "1200",
+        "exp": "2472",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire"
+        ],
+        "spawnArea": [
+            "Mount Gulg",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "065",
+        "name": "Fire Gigas",
+        "HP": "300",
+        "attack": "73",
+        "defense": "20",
+        "accuracy": "83",
+        "agility": "24",
+        "intellect": "12",
+        "evasion": "48",
+        "magicDefense": "135",
+        "gil": "1506",
+        "exp": "1506",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Giant"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire"
+        ],
+        "spawnArea": [
+            "Mount Gulg",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "066",
+        "name": "Red Dragon",
+        "HP": "248",
+        "attack": "75",
+        "defense": "30",
+        "accuracy": "62",
+        "agility": "48",
+        "intellect": "20",
+        "evasion": "96",
+        "magicDefense": "200",
+        "gil": "4000",
+        "exp": "2904",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Mount Gulg",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "067",
+        "name": "Marilith",
+        "HP": "1440",
+        "attack": "40",
+        "defense": "50",
+        "accuracy": "63",
+        "agility": "24",
+        "intellect": "32",
+        "evasion": "48",
+        "magicDefense": "183",
+        "gil": "3000",
+        "exp": "2475",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage",
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Stone",
+            "Fire",
+            "Lightning",
+            "Earth",
+            "Paralysis",
+            "Time",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Mount Gulg"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "068",
+        "name": "White Dragon",
+        "HP": "200",
+        "attack": "53",
+        "defense": "8",
+        "accuracy": "50",
+        "agility": "60",
+        "intellect": "25",
+        "evasion": "120",
+        "magicDefense": "196",
+        "gil": "200",
+        "exp": "1701",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "Fire",
+            "Lightning"
+        ],
+        "resistances": [
+            "Poison",
+            "Stone",
+            "Ice",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Cavern of Ice",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "069",
+        "name": "Winter Wolf",
+        "HP": "92",
+        "attack": "25",
+        "defense": "0",
+        "accuracy": "23",
+        "agility": "27",
+        "intellect": "12",
+        "evasion": "54",
+        "magicDefense": "55",
+        "gil": "200",
+        "exp": "402",
+        "items": [
+            "Ice Shield"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "resistances": [
+            "Ice"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Ice",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "070",
+        "name": "Mindflayer",
+        "HP": "112",
+        "attack": "1",
+        "defense": "12",
+        "accuracy": "28",
+        "agility": "24",
+        "intellect": "26",
+        "evasion": "48",
+        "magicDefense": "187",
+        "gil": "999",
+        "exp": "822",
+        "items": [
+            "Phoenix Down"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Cavern of Ice",
+            "Citadel of Trials",
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "071",
+        "name": "Ice Gigas",
+        "HP": "336",
+        "attack": "60",
+        "defense": "16",
+        "accuracy": "78",
+        "agility": "24",
+        "intellect": "10",
+        "evasion": "48",
+        "magicDefense": "150",
+        "gil": "1752",
+        "exp": "1752",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Giant"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "resistances": [
+            "Ice"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Ice",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "072",
+        "name": "Specter",
+        "HP": "114",
+        "attack": "40",
+        "defense": "12",
+        "accuracy": "29",
+        "agility": "54",
+        "intellect": "25",
+        "evasion": "108",
+        "magicDefense": "67",
+        "gil": "432",
+        "exp": "432",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Cavern of Ice"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "073",
+        "name": "Remorazz",
+        "HP": "320",
+        "attack": "73",
+        "defense": "24",
+        "accuracy": "80",
+        "agility": "24",
+        "intellect": "15",
+        "evasion": "48",
+        "magicDefense": "185",
+        "gil": "1000",
+        "exp": "2244",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Fire",
+            "Ice",
+            "Spirit"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Cavern of Ice"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "074",
+        "name": "Dark Wizard",
+        "HP": "105",
+        "attack": "26",
+        "defense": "40",
+        "accuracy": "27",
+        "agility": "39",
+        "intellect": "24",
+        "evasion": "78",
+        "magicDefense": "170",
+        "gil": "1095",
+        "exp": "1095",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Cavern of Ice",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "075",
+        "name": "Evil Eye",
+        "HP": "162",
+        "attack": "30",
+        "defense": "30",
+        "accuracy": "42",
+        "agility": "6",
+        "intellect": "20",
+        "evasion": "12",
+        "magicDefense": "92",
+        "gil": "3225",
+        "exp": "3225",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "Flying Fortress",
+            "Cavern of Ice"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "076",
+        "name": "Desert Baretta",
+        "HP": "352",
+        "attack": "98",
+        "defense": "48",
+        "accuracy": "88",
+        "agility": "24",
+        "intellect": "12",
+        "evasion": "48",
+        "magicDefense": "156",
+        "gil": "1",
+        "exp": "2610",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "077",
+        "name": "Sabertooth",
+        "HP": "200",
+        "attack": "24",
+        "defense": "8",
+        "accuracy": "50",
+        "agility": "21",
+        "intellect": "18",
+        "evasion": "42",
+        "magicDefense": "106",
+        "gil": "500",
+        "exp": "843",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "078",
+        "name": "Wyvern",
+        "HP": "212",
+        "attack": "30",
+        "defense": "12",
+        "accuracy": "53",
+        "agility": "48",
+        "intellect": "16",
+        "evasion": "96",
+        "magicDefense": "115",
+        "gil": "50",
+        "exp": "1173",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "079",
+        "name": "Wyrm",
+        "HP": "260",
+        "attack": "40",
+        "defense": "22",
+        "accuracy": "65",
+        "agility": "30",
+        "intellect": "24",
+        "evasion": "60",
+        "magicDefense": "131",
+        "gil": "502",
+        "exp": "1218",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "080",
+        "name": "Manticore",
+        "HP": "164",
+        "attack": "22",
+        "defense": "8",
+        "accuracy": "41",
+        "agility": "36",
+        "intellect": "8",
+        "evasion": "72",
+        "magicDefense": "95",
+        "gil": "650",
+        "exp": "1317",
+        "items": [
+            "Tent"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+    
+    {
+        "id": "081",
+        "name": "Baretta",
+        "HP": "256",
+        "attack": "60",
+        "defense": "38",
+        "accuracy": "64",
+        "agility": "28",
+        "intellect": "16",
+        "evasion": "56",
+        "magicDefense": "130",
+        "gil": "300",
+        "exp": "1428",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "082",
+        "name": "Basilisk",
+        "HP": "196",
+        "attack": "30",
+        "defense": "20",
+        "accuracy": "54",
+        "agility": "12",
+        "intellect": "12",
+        "evasion": "24",
+        "magicDefense": "91",
+        "gil": "658",
+        "exp": "1977",
+        "items": [
+            "Gold Needle"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "083",
+        "name": "Allosaurus",
+        "HP": "480",
+        "attack": "65",
+        "defense": "10",
+        "accuracy": "133",
+        "agility": "30",
+        "intellect": "10",
+        "evasion": "60",
+        "magicDefense": "200",
+        "gil": "502",
+        "exp": "3387",
+        "items": [
+            "Strength Tonic"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "084",
+        "name": "Weretiger",
+        "HP": "160",
+        "attack": "30",
+        "defense": "16",
+        "accuracy": "40",
+        "agility": "24",
+        "intellect": "8",
+        "evasion": "48",
+        "magicDefense": "93",
+        "gil": "780",
+        "exp": "780",
+        "items": [
+            "Sleeping Bag"
+        ],
+        "type": [
+            "Regenerative",
+            "Beast",
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "085",
+        "name": "Sand Worm",
+        "HP": "200",
+        "attack": "46",
+        "defense": "14",
+        "accuracy": "50",
+        "agility": "31",
+        "intellect": "18",
+        "evasion": "62",
+        "magicDefense": "103",
+        "gil": "900",
+        "exp": "2683",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "086",
+        "name": "Minotaur Zombie",
+        "HP": "224",
+        "attack": "40",
+        "defense": "14",
+        "accuracy": "56",
+        "agility": "18",
+        "intellect": "1",
+        "evasion": "36",
+        "magicDefense": "116",
+        "gil": "1050",
+        "exp": "1050",
+        "items": [
+            "Great Axe"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "World Map",
+            "Citadel of Trials"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "087",
+        "name": "King Mummy",
+        "HP": "188",
+        "attack": "43",
+        "defense": "24",
+        "accuracy": "47",
+        "agility": "12",
+        "intellect": "24",
+        "evasion": "24",
+        "magicDefense": "95",
+        "gil": "1000",
+        "exp": "984",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Citadel of Trials",
+            "Waterfall Cavern",
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "088",
+        "name": "Medusa",
+        "HP": "68",
+        "attack": "20",
+        "defense": "10",
+        "accuracy": "17",
+        "agility": "18",
+        "intellect": "16",
+        "evasion": "36",
+        "magicDefense": "55",
+        "gil": "699",
+        "exp": "699",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Citadel of Trials",
+            "Mirage Tower",
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "089",
+        "name": "Rakshasa",
+        "HP": "110",
+        "attack": "20",
+        "defense": "30",
+        "accuracy": "28",
+        "agility": "30",
+        "intellect": "15",
+        "evasion": "60",
+        "magicDefense": "62",
+        "gil": "800",
+        "exp": "603",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Beast"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Citadel of Trials",
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "090",
+        "name": "Clay Golem",
+        "HP": "176",
+        "attack": "64",
+        "defense": "7",
+        "accuracy": "44",
+        "agility": "14",
+        "intellect": "16",
+        "evasion": "28",
+        "magicDefense": "93",
+        "gil": "800",
+        "exp": "1257",
+        "items": [
+            "Potion"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Waterfall Cavern",
+            "Citadel of Trials",
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "091",
+        "name": "Nightmare",
+        "HP": "200",
+        "attack": "30",
+        "defense": "24",
+        "accuracy": "50",
+        "agility": "66",
+        "intellect": "20",
+        "evasion": "132",
+        "magicDefense": "100",
+        "gil": "700",
+        "exp": "1272",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Waterfall Cavern",
+            "Citadel of Trials",
+            "Mirage Tower",
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "092",
+        "name": "Dragon Zombie",
+        "HP": "268",
+        "attack": "56",
+        "defense": "30",
+        "accuracy": "67",
+        "agility": "12",
+        "intellect": "26",
+        "evasion": "24",
+        "magicDefense": "135",
+        "gil": "999",
+        "exp": "2331",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead",
+            "Dragon"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Citadel of Trials",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "093",
+        "name": "Sahagin Prince",
+        "HP": "204",
+        "attack": "47",
+        "defense": "20",
+        "accuracy": "51",
+        "agility": "48",
+        "intellect": "15",
+        "evasion": "96",
+        "magicDefense": "101",
+        "gil": "882",
+        "exp": "882",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "094",
+        "name": "White Shark",
+        "HP": "344",
+        "attack": "50",
+        "defense": "8",
+        "accuracy": "86",
+        "agility": "36",
+        "intellect": "16",
+        "evasion": "72",
+        "magicDefense": "170",
+        "gil": "600",
+        "exp": "2361",
+        "items": [
+            "Wyrmkiller"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "095",
+        "name": "Deepeyes",
+        "HP": "304",
+        "attack": "30",
+        "defense": "16",
+        "accuracy": "76",
+        "agility": "12",
+        "intellect": "0",
+        "evasion": "24",
+        "magicDefense": "156",
+        "gil": "3591",
+        "exp": "3591",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "096",
+        "name": "Sea Snake",
+        "HP": "224",
+        "attack": "35",
+        "defense": "12",
+        "accuracy": "56",
+        "agility": "24",
+        "intellect": "21",
+        "evasion": "48",
+        "magicDefense": "116",
+        "gil": "600",
+        "exp": "957",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic",
+            "Dragon"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "097",
+        "name": "Sea Scorpion",
+        "HP": "148",
+        "attack": "35",
+        "defense": "18",
+        "accuracy": "37",
+        "agility": "30",
+        "intellect": "11",
+        "evasion": "60",
+        "magicDefense": "85",
+        "gil": "300",
+        "exp": "639",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "098",
+        "name": "Sea Troll",
+        "HP": "216",
+        "attack": "40",
+        "defense": "20",
+        "accuracy": "54",
+        "agility": "24",
+        "intellect": "10",
+        "evasion": "48",
+        "magicDefense": "110",
+        "gil": "852",
+        "exp": "852",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Regenerative",
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "099",
+        "name": "Ghost",
+        "HP": "180",
+        "attack": "93",
+        "defense": "30",
+        "accuracy": "45",
+        "agility": "18",
+        "intellect": "30",
+        "evasion": "36",
+        "magicDefense": "85",
+        "gil": "990",
+        "exp": "990",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "100",
+        "name": "Water Elemental",
+        "HP": "300",
+        "attack": "69",
+        "defense": "20",
+        "accuracy": "68",
+        "agility": "36",
+        "intellect": "32",
+        "evasion": "72",
+        "magicDefense": "130",
+        "gil": "800",
+        "exp": "1962",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "101",
+        "name": "Water Naga",
+        "HP": "356",
+        "attack": "9",
+        "defense": "8",
+        "accuracy": "71",
+        "agility": "36",
+        "intellect": "25",
+        "evasion": "72",
+        "magicDefense": "116",
+        "gil": "2355",
+        "exp": "2355",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage",
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine",
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "102",
+        "name": "Kraken",
+        "HP": "1800",
+        "attack": "50",
+        "defense": "60",
+        "accuracy": "90",
+        "agility": "42",
+        "intellect": "32",
+        "evasion": "84",
+        "magicDefense": "160",
+        "gil": "5000",
+        "exp": "4245",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Stone",
+            "Fire",
+            "Earth",
+            "Poison",
+            "Time",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Sunken Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "103",
+        "name": "Tyrannosaur",
+        "HP": "600",
+        "attack": "115",
+        "defense": "10",
+        "accuracy": "144",
+        "agility": "30",
+        "intellect": "24",
+        "evasion": "60",
+        "magicDefense": "200",
+        "gil": "600",
+        "exp": "7200",
+        "items": [
+            "Giant's Tonic"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "World Map"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "104",
+        "name": "Black Knight",
+        "HP": "260",
+        "attack": "44",
+        "defense": "38",
+        "accuracy": "65",
+        "agility": "18",
+        "intellect": "20",
+        "evasion": "36",
+        "magicDefense": "135",
+        "gil": "1800",
+        "exp": "1263",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Mirage Tower",
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "105",
+        "name": "Chimera",
+        "HP": "300",
+        "attack": "30",
+        "defense": "20",
+        "accuracy": "60",
+        "agility": "36",
+        "intellect": "24",
+        "evasion": "72",
+        "magicDefense": "130",
+        "gil": "2500",
+        "exp": "2064",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Beast",
+            "Dragon"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Mirage Tower",
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "106",
+        "name": "Guardian",
+        "HP": "200",
+        "attack": "25",
+        "defense": "40",
+        "accuracy": "50",
+        "agility": "36",
+        "intellect": "24",
+        "evasion": "72",
+        "magicDefense": "110",
+        "gil": "400",
+        "exp": "1224",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Mirage Tower",
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "107",
+        "name": "Blue Dragon",
+        "HP": "454",
+        "attack": "92",
+        "defense": "20",
+        "accuracy": "86",
+        "agility": "48",
+        "intellect": "28",
+        "evasion": "96",
+        "magicDefense": "200",
+        "gil": "2000",
+        "exp": "3274",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Lightning",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Mirage Tower"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "108",
+        "name": "Green Dragon",
+        "HP": "1352",
+        "attack": "72",
+        "defense": "16",
+        "accuracy": "68",
+        "agility": "48",
+        "intellect": "24",
+        "evasion": "96",
+        "magicDefense": "200",
+        "gil": "5000",
+        "exp": "4068",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "Waterfall Cavern",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "109",
+        "name": "Stone Golem",
+        "HP": "200",
+        "attack": "70",
+        "defense": "16",
+        "accuracy": "50",
+        "agility": "12",
+        "intellect": "21",
+        "evasion": "24",
+        "magicDefense": "110",
+        "gil": "1000",
+        "exp": "2385",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "110",
+        "name": "Air Elemental",
+        "HP": "358",
+        "attack": "53",
+        "defense": "4",
+        "accuracy": "62",
+        "agility": "72",
+        "intellect": "40",
+        "evasion": "144",
+        "magicDefense": "130",
+        "gil": "807",
+        "exp": "1614",
+        "items": [
+            "Ether"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "111",
+        "name": "Spirit Naga",
+        "HP": "420",
+        "attack": "7",
+        "defense": "16",
+        "accuracy": "88",
+        "agility": "24",
+        "intellect": "32",
+        "evasion": "48",
+        "magicDefense": "143",
+        "gil": "4000",
+        "exp": "3489",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "112",
+        "name": "Death Knight",
+        "HP": "190",
+        "attack": "55",
+        "defense": "32",
+        "accuracy": "48",
+        "agility": "21",
+        "intellect": "28",
+        "evasion": "42",
+        "magicDefense": "173",
+        "gil": "3000",
+        "exp": "2700",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage",
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "113",
+        "name": "Earth Medusa",
+        "HP": "96",
+        "attack": "11",
+        "defense": "12",
+        "accuracy": "24",
+        "agility": "36",
+        "intellect": "24",
+        "evasion": "72",
+        "magicDefense": "70",
+        "gil": "1218",
+        "exp": "1218",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "resistances": [
+            "Ice",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "114",
+        "name": "Black Flan",
+        "HP": "156",
+        "attack": "49",
+        "defense": "255",
+        "accuracy": "39",
+        "agility": "12",
+        "intellect": "6",
+        "evasion": "24",
+        "magicDefense": "85",
+        "gil": "900",
+        "exp": "1101",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Fire"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Lightning",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "115",
+        "name": "Soldier",
+        "HP": "400",
+        "attack": "102",
+        "defense": "48",
+        "accuracy": "90",
+        "agility": "48",
+        "intellect": "28",
+        "evasion": "96",
+        "magicDefense": "160",
+        "gil": "2000",
+        "exp": "4000",
+        "items": [
+            "Phoenix Down"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "Lightning"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "116",
+        "name": "Vampire Lord",
+        "HP": "300",
+        "attack": "90",
+        "defense": "28",
+        "accuracy": "42",
+        "agility": "36",
+        "intellect": "34",
+        "evasion": "72",
+        "magicDefense": "84",
+        "gil": "3000",
+        "exp": "2385",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Regenerative",
+            "Mage",
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "117",
+        "name": "Dark Fighter",
+        "HP": "200",
+        "attack": "40",
+        "defense": "38",
+        "accuracy": "45",
+        "agility": "45",
+        "intellect": "34",
+        "evasion": "90",
+        "magicDefense": "186",
+        "gil": "3420",
+        "exp": "3420",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "None"
+        ],
+        "spawnArea": [
+            "Flying Fortress",
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "118",
+        "name": "Warmech",
+        "HP": "2000",
+        "attack": "128",
+        "defense": "80",
+        "accuracy": "200",
+        "agility": "48",
+        "intellect": "50",
+        "evasion": "96",
+        "magicDefense": "200",
+        "gil": "32000",
+        "exp": "32000",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Regenerative"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "119",
+        "name": "Tiamat",
+        "HP": "2400",
+        "attack": "53",
+        "defense": "80",
+        "accuracy": "80",
+        "agility": "36",
+        "intellect": "45",
+        "evasion": "72",
+        "magicDefense": "200",
+        "gil": "6000",
+        "exp": "5496",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Stone",
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Earth",
+            "Poison",
+            "Time",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Flying Fortress"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "120",
+        "name": "Rhyos",
+        "HP": "350",
+        "attack": "40",
+        "defense": "18",
+        "accuracy": "70",
+        "agility": "30",
+        "intellect": "30",
+        "evasion": "60",
+        "magicDefense": "143",
+        "gil": "5000",
+        "exp": "4584",
+        "items": [
+            "Power Staff"
+        ],
+        "type": [
+            "Beast",
+            "Dragon"
+        ],
+        "weakness": [
+            "Ice"
+        ],
+        "resistances": [
+            "Fire",
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "121",
+        "name": "Death Eye",
+        "HP": "360",
+        "attack": "120",
+        "defense": "60",
+        "accuracy": "150",
+        "agility": "12",
+        "intellect": "35",
+        "evasion": "24",
+        "magicDefense": "160",
+        "gil": "1",
+        "exp": "1",
+        "items": [
+            "Elixir"
+        ],
+        "type": [
+            "Regenerative",
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Fire",
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "122",
+        "name": "Purple Worm",
+        "HP": "448",
+        "attack": "65",
+        "defense": "10",
+        "accuracy": "112",
+        "agility": "18",
+        "intellect": "24",
+        "evasion": "36",
+        "magicDefense": "200",
+        "gil": "1000",
+        "exp": "4333",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "None"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Earth"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "123",
+        "name": "Iron Golem",
+        "HP": "304",
+        "attack": "93",
+        "defense": "100",
+        "accuracy": "76",
+        "agility": "12",
+        "intellect": "26",
+        "evasion": "24",
+        "magicDefense": "143",
+        "gil": "3000",
+        "exp": "6717",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Poison",
+            "Stone",
+            "Confuse",
+            "Fire",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "124",
+        "name": "Lich",
+        "HP": "2800",
+        "attack": "50",
+        "defense": "80",
+        "accuracy": "64",
+        "agility": "24",
+        "intellect": "34",
+        "evasion": "48",
+        "magicDefense": "140",
+        "gil": "1",
+        "exp": "2000",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage",
+            "Undead",
+            "Magic"
+        ],
+        "weakness": [
+            "Dia"
+        ],
+        "resistances": [
+            "Silence",
+            "Sleep",
+            "Paralysis",
+            "Darkness",
+            "Stone",
+            "Confuse",
+            "Ice",
+            "Earth",
+            "Spirit",
+            "Poison",
+            "Time",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "125",
+        "name": "Marilith",
+        "HP": "3200",
+        "attack": "60",
+        "defense": "80",
+        "accuracy": "63",
+        "agility": "30",
+        "intellect": "41",
+        "evasion": "60",
+        "magicDefense": "183",
+        "gil": "1",
+        "exp": "2000",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage",
+            "Magic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Stone",
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Earth",
+            "Poison",
+            "Time",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "126",
+        "name": "Kraken",
+        "HP": "3600",
+        "attack": "60",
+        "defense": "80",
+        "accuracy": "114",
+        "agility": "49",
+        "intellect": "41",
+        "evasion": "98",
+        "magicDefense": "200",
+        "gil": "1",
+        "exp": "2000",
+        "items": [
+            "Eye Drops"
+        ],
+        "type": [
+            "Aquatic"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Stone",
+            "Fire",
+            "Earth",
+            "Poison",
+            "Time",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "127",
+        "name": "Tiamat",
+        "HP": "5500",
+        "attack": "75",
+        "defense": "90",
+        "accuracy": "85",
+        "agility": "45",
+        "intellect": "38",
+        "evasion": "90",
+        "magicDefense": "200",
+        "gil": "1",
+        "exp": "2000",
+        "items": [
+            "None"
+        ],
+        "type": [
+            "Mage",
+            "Dragon"
+        ],
+        "weakness": [
+            "None"
+        ],
+        "resistances": [
+            "Stone",
+            "Fire",
+            "Ice",
+            "Lightning",
+            "Earth",
+            "Poison",
+            "Time",
+            "Instant Death"
+        ],
+        "spawnArea": [
+            "Chaos Shrine"
+        ],
+        "encountered": false
+    },
+
+    {
+        "id": "128",
+        "name": "Chaos",
+        "HP": "???",
+        "attack": "???",
+        "defense": "???",
+        "accuracy": "???",
+        "agility": "???",
+        "intellect": "???",
+        "evasion": "???",
+        "magicDefense": "???",
+        "gil": "???",
+        "exp": "???",
+        "items": [
+            "???"
+        ],
+        "type": [
+            "???"
+        ],
+        "weakness": [
+            "???"
+        ],
+        "resistances": [
+            "???"
+        ],
+        "spawnArea": [
+            "???"
+        ],
+        "encountered": false
+    }
+]
