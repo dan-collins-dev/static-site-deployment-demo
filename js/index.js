@@ -1,7 +1,10 @@
 "use strict";
 
+// This is the hardcoded repo url for the github pages deployment
 const repoUrl = "https://dan-collins-dev.github.io/static-site-deployment-demo"
-let dev = false;
+
+// dev is used to determine if the site is being run locally or on github pages
+const dev = false;
 
 async function getAllMonsterData() {
     const endpointUrl =
@@ -18,8 +21,10 @@ async function initializeData() {
 
         // setting data in local storage requires it to be stringified first
         localStorage.setItem("monsterData", JSON.stringify(data));
+        createMonsterList()
     } else {
         console.log("Data exists already");
+        createMonsterList();
     }
 }
 
@@ -32,14 +37,20 @@ function createMonsterList() {
         listItem.classList.add("monster-entry")
 
         if (dev) {
-            listItem.innerHTML = `<a href="./monster.html?name=${monster.name}">${monster.name}</a>`
+            const link = document.createElement("a")
+            link.href = `./monster.html?name=${monster.name}`;
+            link.innerText = monster.name
+            listItem.append(link)
+            monsterList.appendChild(listItem)
         } else {
-            listItem.innerHTML = `<a href="${repoUrl}/monster.html?name=${monster.name}">${monster.name}</a>`
+            const link = document.createElement("a")
+            link.href = `${repoUrl}/monster.html?name=${monster.name}`;
+            link.innerText = monster.name
+            listItem.append(link)
+            monsterList.appendChild(listItem)
         }
 
-        monsterList.appendChild(listItem)
     });
 }
 
 initializeData();
-createMonsterList();
