@@ -34,7 +34,7 @@ function createMonsterList() {
         if (dev) {
             listItem.innerHTML = `<a href="./monster.html?name=${monster.name}">${monster.name}</a>`
         } else {
-            listItem.innerHTML = `<a href="/monster.html?name=${monster.name}">${monster.name}</a>`
+            listItem.innerHTML = `<a href="../monster.html?name=${monster.name}">${monster.name}</a>`
         }
 
         monsterList.appendChild(listItem)
