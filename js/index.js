@@ -1,5 +1,7 @@
 "use strict";
 
+const repoName = "./static-site-deployment-demo/"
+
 async function getAllMonsterData() {
     const endpointUrl =
         "https://dan-collins-dev.github.io/static-site-deployment-demo/data/monsters.json";
@@ -27,7 +29,7 @@ function createMonsterList() {
     allMonsters.forEach(monster => {
         const listItem = document.createElement("li");
         listItem.classList.add("monster-entry")
-        listItem.innerHTML = `<a href="./monster.html?name=${monster.name}">${monster.name}</a>`
+        listItem.innerHTML = `<a href="./../monster.html?name=${monster.name}">${monster.name}</a>`
         monsterList.appendChild(listItem)
     });
 }
