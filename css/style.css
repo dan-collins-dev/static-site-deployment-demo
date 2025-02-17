@@ -1,1 +1,47 @@
 @import url("./reset.css");
+
+body {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    min-height: 6dvh;
+    padding: 1rem;
+}
+
+.title {
+    margin-left: 1rem;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    flex: 1;
+}
+
+.monster-list {
+    padding: 1rem;
+}
+
+.monster-entry {
+    border: 1px solid black;
+    padding: .5rem;
+    margin: .5rem 0;
+}
+
+.footer {
+    background-color: blue;
+    color: white;
+    min-height: 6dvh;
+}
