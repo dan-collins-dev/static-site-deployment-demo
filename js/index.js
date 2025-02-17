@@ -1,6 +1,6 @@
 "use strict";
 
-const repoName = "static-site-deployment-demo"
+const repoUrl = "https://dan-collins-dev.github.io/static-site-deployment-demo"
 let dev = false;
 
 async function getAllMonsterData() {
@@ -34,7 +34,7 @@ function createMonsterList() {
         if (dev) {
             listItem.innerHTML = `<a href="./monster.html?name=${monster.name}">${monster.name}</a>`
         } else {
-            listItem.innerHTML = `<a href="../monster.html?name=${monster.name}">${monster.name}</a>`
+            listItem.innerHTML = `<a href="${repoUrl}/monster.html?name=${monster.name}">${monster.name}</a>`
         }
 
         monsterList.appendChild(listItem)
