@@ -1,6 +1,7 @@
 "use strict";
 
-const repoName = "./static-site-deployment-demo/"
+const repoName = "static-site-deployment-demo"
+let dev = false;
 
 async function getAllMonsterData() {
     const endpointUrl =
@@ -29,7 +30,13 @@ function createMonsterList() {
     allMonsters.forEach(monster => {
         const listItem = document.createElement("li");
         listItem.classList.add("monster-entry")
-        listItem.innerHTML = `<a href="./../monster.html?name=${monster.name}">${monster.name}</a>`
+
+        if (dev) {
+            listItem.innerHTML = `<a href="./monster.html?name=${monster.name}">${monster.name}</a>`
+        } else {
+            listItem.innerHTML = `<a href="./${repoName}/monster.html?name=${monster.name}">${monster.name}</a>`
+        }
+
         monsterList.appendChild(listItem)
     });
 }
