@@ -27,7 +27,7 @@ function createMonsterList() {
     allMonsters.forEach(monster => {
         const listItem = document.createElement("li");
         listItem.classList.add("monster-entry")
-        listItem.innerHTML = `<a href="../monster.html?name=${monster.name}">${monster.name}</a>`
+        listItem.innerHTML = `<a href="./monster.html?name=${monster.name}">${monster.name}</a>`
         monsterList.appendChild(listItem)
     });
 }
