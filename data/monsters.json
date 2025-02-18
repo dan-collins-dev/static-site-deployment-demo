@@ -28,7 +28,8 @@
             "World Map",
             "Chaos Shrine"
         ],
-        "encountered": false
+        "encountered": false,
+        "sprite": "https://i.psnprofiles.com/guides/16575/918980.png"
     },
 
     {
@@ -61,7 +62,8 @@
             "Cavern of Earth",
             "Chaos Shrine"
         ],
-        "encountered": false
+        "encountered": false,
+        "sprite": "https://i.psnprofiles.com/guides/16575/624e7e.png"
     },
 
     {
@@ -93,7 +95,8 @@
             "World Map",
             "Chaos Shrine"
         ],
-        "encountered": false
+        "encountered": false,
+        "sprite": "https://i.psnprofiles.com/guides/16575/624e7e.png"
     },
 
     {
@@ -124,7 +127,8 @@
         "spawnArea": [
             "World Map"
         ],
-        "encountered": false
+        "encountered": false,
+        "sprite": "https://i.psnprofiles.com/guides/16575/b66d22.png"
     },
 
     {
@@ -167,7 +171,8 @@
             "Chaos Shrine",
             "Marsh Cave"
         ],
-        "encountered": false
+        "encountered": false,
+        "sprite": "https://i.psnprofiles.com/guides/16575/29dfb9.png"
     },
 
     {
@@ -201,7 +206,8 @@
             "Cavern of Earth",
             "Marsh Cave"
         ],
-        "encountered": false
+        "encountered": false,
+        "sprite": "https://i.psnprofiles.com/guides/16575/88a6e2.png"
     },
 
     {
