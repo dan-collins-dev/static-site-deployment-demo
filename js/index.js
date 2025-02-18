@@ -15,7 +15,7 @@ async function getAllMonsterData() {
 }
 
 async function initializeData() {
-    if (!localStorage.getItem("monsterData")) {
+    if (localStorage.getItem("monsterData") === null) {
         console.log("Fetching Data and initializing local storage for data");
         const data = await getAllMonsterData();
 
@@ -49,7 +49,6 @@ function createMonsterList() {
             listItem.append(link)
             monsterList.appendChild(listItem)
         }
-
     });
 }
 
