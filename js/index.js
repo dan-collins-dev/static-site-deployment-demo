@@ -3,8 +3,8 @@
 // This is the hardcoded repo url for the github pages deployment
 const repoUrl = "https://dan-collins-dev.github.io/static-site-deployment-demo"
 
-// dev is used to determine if the site is being run locally or on github pages
-const dev = false;
+// devMode is used to determine if the site is being run locally or on github pages
+const devMode = false;
 
 async function getAllMonsterData() {
     const endpointUrl =
@@ -36,7 +36,7 @@ function createMonsterList() {
         const listItem = document.createElement("li");
         listItem.classList.add("monster-entry")
 
-        if (dev) {
+        if (devMode) {
             const link = document.createElement("a")
             link.href = `./monster.html?name=${monster.name}`;
             link.innerText = monster.name
